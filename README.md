@@ -29,6 +29,9 @@ Please make sure to update tests.
 I'm the only one working on this project, and I am not going to work on it anymore, because the code was literally so easy.
 I just wrote 3 lines of code, I made this to help Brave users because Brave Browser doesn't have this feature unfortunately.
 
+Also if you want to support me you can !
+[https://buymeacoffee.com/dragondreat](https://buymeacoffee.com/dragondreat)
+
 
 
 
