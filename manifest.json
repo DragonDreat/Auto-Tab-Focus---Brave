@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Focus Brave Tabs",
+  "version": "1.0",
+  "description": "Automatically focuses new tabs opened with middle click or Ctrl+Click.",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background-worker.js"
+  }
+}
