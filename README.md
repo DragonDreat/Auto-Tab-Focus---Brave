@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/tests-passing-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"> <img src="https://img.shields.io/github/v/release/dragondreat/xevy" alt="Latest Release"><img src="https://img.shields.io/badge/JavaScript-%233178C6.svg?logo=javascript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/tests-passing-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"> <img src="https://img.shields.io/github/v/release/dragondreat/Auto-Tab-Focus---Brave" alt="Latest Release"><img src="https://img.shields.io/badge/JavaScript-%233178C6.svg?logo=javascript&logoColor=white" alt="TypeScript">
 </div>
 
 # Auto Tab Focus - Brave Browser
